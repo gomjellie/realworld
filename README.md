@@ -1,7 +1,5 @@
 # realworld
 
-realworld 과제 명세
-
 ## 목표
 
 - 본 과제의 목표는 [RealWorld](https://demo.realworld.io/) 리액트 앱을 둘이서 페어로 만들어보는것이다
